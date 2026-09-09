@@ -700,7 +700,7 @@ app.post("/api/upgrades", (req, res) => {
           body.profileUrl || "",
 
         balance:
-          Number(body.balance) || 5000,
+          Number(body.balance) || 0,
 
         inventory: Array.isArray(body.inventory)
           ? body.inventory
