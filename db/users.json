@@ -5,19 +5,19 @@
     "username": "ZOVUT YAKOV",
     "avatar": "https://avatars.steamstatic.com/c2ad919d7696104592475d8676fd616dd86dde70_full.jpg",
     "profileUrl": "https://steamcommunity.com/profiles/76561199650220919/",
-    "lastLogin": "2026-09-09T00:59:35.572Z",
-    "balance": 1.6099999999999586,
+    "lastLogin": "2026-09-09T01:08:24.783Z",
+    "balance": 4.5299999999999585,
     "inventory": [],
     "tradeUrl": "",
     "role": "user",
     "isBanned": false,
     "stats": {
-      "totalUpgrades": 23,
-      "successfulUpgrades": 23,
+      "totalUpgrades": 25,
+      "successfulUpgrades": 25,
       "failedUpgrades": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalWagered": 4297.35
+      "totalWagered": 4301.390000000001
     },
     "createdAt": "2026-09-09T00:31:12.587Z"
   }
